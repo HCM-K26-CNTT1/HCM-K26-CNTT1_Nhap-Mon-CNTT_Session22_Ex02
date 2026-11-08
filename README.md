@@ -1,5 +1,3 @@
-Dưới đây là nội dung README theo cách trình bày đơn giản, dễ hiểu, phù hợp với sinh viên năm nhất và có thể sao chép trực tiếp vào file `README.md`.
-
 # BÀI 2: XỬ LÝ LỖI THƯ VIỆN MÃ NGUỒN MỞ BẰNG GITHUB ISSUES
 
 ## 1. Mục tiêu
